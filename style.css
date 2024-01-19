@@ -1,0 +1,57 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border: 0px solid black;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 12%;
+    background-color: white;
+  
+  }
+  
+  th {
+    border-collapse: collapse;
+    border: 0px solid black;
+    font-weight: lighter;
+    width: 20%;
+  
+  }
+  
+  h3, h4 {
+    font-weight: lighter;
+  }
+  
+  button {
+      font-size: 25px;
+      font-weight: bolder;
+      background-color: rgb(72, 209, 113);
+      color: black;
+      margin-left: 2%;
+  
+  }
+  
+  input {
+      margin: 4px;
+      background: none;
+      padding: 3px;
+      outline: none;
+      font-size: 20px;
+      text-align: center;
+      width: 50%;
+  
+  }
+  
+  .output {
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 12%;
+  }
